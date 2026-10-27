@@ -1,0 +1,23 @@
+--- Header
+Logo 
+GREG ROGERS 3D Artist
+
+Menu: projects, about, contact
+
+-- Projects
+01 · Severance (pic1.png)
+02 · Don (pic2.jpg) 
+03 · 1917 (pic3.jpg)
+04 · Crosby (pic4.jpg) 
+05 · Analog House (pic5.jpg) 
+06 · Coast (pic6.jpg)
+
+About
+Hi, I'm Greg.
+I'm a 3D artist based in Lisbon with over 10 years of experience creating images for architects, interior designers, brands and game studios. I started out as an architecture student, fell in love with light and materials, and never looked back.
+My work lives between precision and mood: every render begins with accurate geometry, but it is the light, the texture and the small imperfections that make a space feel lived in.
+When I'm not rendering, you'll find me sketching on the train, photographing old buildings, or hunting for vintage furniture to model next.
+
+contacts: Email: hello@gregrogers3d.com
+Telefone: +351 912 345 678
+Localização: Lisboa, Portugal 
